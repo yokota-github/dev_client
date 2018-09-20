@@ -2,4 +2,4 @@ githubテスト
 
 develop作成
 
-master
+developです
